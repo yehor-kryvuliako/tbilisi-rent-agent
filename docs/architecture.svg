@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+  <title>Tbilisi Rent Agent: how it works</title>
+  <rect width="900" height="430" rx="14" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#8b96a5"/>
+    </marker>
+  </defs>
+  <g fill="#ffffff" stroke="#c9d1dc" stroke-width="1.5">
+    <rect x="20" y="30" width="190" height="90" rx="10"/>
+    <rect x="20" y="140" width="190" height="90" rx="10"/>
+    <rect x="250" y="85" width="180" height="90" rx="10"/>
+    <rect x="470" y="85" width="180" height="90" rx="10"/>
+    <rect x="20" y="300" width="250" height="100" rx="10"/>
+    <rect x="300" y="300" width="300" height="100" rx="10"/>
+    <rect x="630" y="300" width="250" height="100" rx="10"/>
+  </g>
+  <rect x="690" y="85" width="190" height="90" rx="10" fill="#e6f7f5" stroke="#2ec4b6" stroke-width="2.5"/>
+  <g stroke="#8b96a5" stroke-width="2" fill="none">
+    <path d="M211 75 H230 V120 H248" marker-end="url(#a)"/>
+    <path d="M211 185 H230 V140 H248" marker-end="url(#a)"/>
+    <path d="M431 130 H468" marker-end="url(#a)"/>
+    <path d="M651 130 H688" marker-end="url(#a)"/>
+    <path d="M785 176 V240 H145 V298" marker-end="url(#a)"/>
+    <path d="M450 240 V298" marker-end="url(#a)"/>
+    <path d="M755 240 V298" marker-end="url(#a)"/>
+    <path d="M145 401 V418 H615 V230 H610 V176" stroke-dasharray="5 4" marker-end="url(#a)"/>
+  </g>
+  <g text-anchor="middle">
+    <g font-size="16" font-weight="700" fill="#14213d">
+      <text x="115" y="62">5 real-estate sites</text>
+      <text x="115" y="172">8–10 Telegram channels</text>
+      <text x="340" y="117">Collector</text>
+      <text x="560" y="117">Claude Haiku</text>
+      <text x="785" y="117">Card in Telegram bot</text>
+      <text x="145" y="330">My rating 👍 / 👎</text>
+      <text x="450" y="330">Strong match</text>
+      <text x="755" y="330">WhatsApp button</text>
+    </g>
+    <g font-size="13" fill="#4b5563">
+      <text x="115" y="84">ss.ge · korter.ge · livo.ge</text>
+      <text x="115" y="102">place.ge · rentor.ge</text>
+      <text x="115" y="194">read by a second</text>
+      <text x="115" y="212">Telegram account</text>
+      <text x="340" y="139">Python, 24/7 on a Mac</text>
+      <text x="340" y="157">duplicates merged</text>
+      <text x="560" y="139">screens every listing:</text>
+      <text x="560" y="157">criteria + learned taste</text>
+      <text x="785" y="139">photos, price, transport,</text>
+      <text x="785" y="157">pros &amp; cons, buttons</text>
+      <text x="145" y="353">Claude Sonnet turns ratings</text>
+      <text x="145" y="371">into taste rules</text>
+      <text x="450" y="353">Claude Sonnet double-checks photos,</text>
+      <text x="450" y="371">agent writes in Telegram</text>
+      <text x="450" y="389">max 6 / hour, 25 / day</text>
+      <text x="755" y="353">ready-made message —</text>
+      <text x="755" y="371">a human presses Send</text>
+      <text x="380" y="413" font-size="12" fill="#8b96a5">taste rules feed back into screening</text>
+    </g>
+  </g>
+</svg>

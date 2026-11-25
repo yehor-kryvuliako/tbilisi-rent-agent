@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Локальні дані агента (база, журнал, сесії) живуть у ~/Library/Application Support/TbilisiAgent — не в репозиторії
+*.db
+*.log
+*.session
